@@ -1,0 +1,5 @@
+# Example from the assignment: one line per array
+O: 2 6 11
+C: 4 8 14
+S: 3 7 12
+R: 2 2 1
