@@ -36,4 +36,4 @@ which does not match its own numbers.
 - `common.py` — input parsing, an independent checker for a selection, random instance generator
 - `check_correctness.py` — compares all algorithms with exhaustive search (`python check_correctness.py`, ~15 s)
 - `experiments.py` — all experiments and the figure in the report (`python experiments.py`, ~10 min)
-- `results/` — experiment output (CSV) and `results/figures/`
+
